@@ -1,0 +1,27 @@
+<!Doctype html>
+<html lang="en" dir="ltr">
+<head>
+<meta charset="utf-8">
+  <meta name="viewport" content="width=divice-width intial-scale=1">
+  <meta name="description" content="This is an e-shop that sales beanies">
+  <link href="https://fonts.googleapis.com/css?family=Sofia" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+  <link rel="stylesheet" href="mystyle.css">
+  <title>BeanieHoney</title>
+  </head>
+  
+  <body>
+    <div class="logo" id="logo">
+         <section id="overlay">
+    <img src="Logo.png" alt="beaniehoney logo" id="beaniehoneylogo">               </div>
+  
+<div class="topnav">
+  <a href="#home">HOME</a>
+  <a href="#shop">SHOP</a>
+  <a href="#contact us">CONTACT US</a>
+  <a href="#cart"><i class="fa fa-shopping-cart"></i></a>
+</div>
+  
+  <h1>Make a Statement<br>as your Beanie</h1>
+  
+      <a class="button" href="#exploremore">EXPLORE MORE</a>
